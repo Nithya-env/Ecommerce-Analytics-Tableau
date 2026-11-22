@@ -22,6 +22,7 @@ To transform e-commerce data into meaningful business insights through interacti
 ## Project Files
 - Tableau workbook – Interactive Dashboard
 - Dashboard screenshots – Visual previews
-
+  
 ## Dashboard Preview
 
+![E-commerce Dashboard](Ecommerce_sales.png)
